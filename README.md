@@ -1,0 +1,1 @@
+Developed a Breakout type game that starts with an editor for the base on which the ball will spawn. Implemented constraints for the base plate, a start button, physics for collisions, destroy animations with dynamic particles and changing colors. Also added a feature to count the lives left and a score mechanism.
